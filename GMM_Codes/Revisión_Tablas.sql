@@ -1,0 +1,3 @@
+SELCT *
+FROM A
+;
